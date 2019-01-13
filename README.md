@@ -44,4 +44,4 @@ ionic cordova platform add ios
 ionic cordova run ios
 ```
 
-htttps://cakraduania.co
+https://cakraduania.co
